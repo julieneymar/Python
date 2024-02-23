@@ -1,0 +1,31 @@
+class Node:
+    def __init__(self, thename):
+        self.name = thename
+        self.children = []
+        self.parent = None
+
+    def addchild(self,node):
+        node.parent = self   
+        self.children.append(node)
+
+      
+
+    def afficher(self, level = 0):
+        indentation = " " * level
+        print(indentation + self.name)
+        for i in self.children:
+            i.afficher(level + 1)
+
+ 
+#creeaction de la raccine
+essais = Node("tony")
+#ajout des enfants
+essais.addchild(Node("bake"))
+kemi = Node("kemi")
+essais.addchild(kemi) 
+essais.addchild(Node("bere"))
+essais.addchild(Node("lolo"))  
+lola = Node("lola")
+kemi.addchild(lola)
+lola.addchild(Node("pipo"))
+essais.afficher()
