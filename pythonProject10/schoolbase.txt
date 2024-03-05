@@ -1,0 +1,30 @@
+
+
+Nom Prenom:FRE
+MoyMat1:2.5
+MoyMat2:4.5
+MoyMat3:6.5
+MoyMat4:8.5
+MoyMat5:0.5
+Moyenne general:4.5
+Mention:Insufisant
+
+
+Nom Prenom:23
+MoyMat1:5.5
+MoyMat2:7.5
+MoyMat3:9.0
+MoyMat4:9.0
+MoyMat5:9.0
+Moyenne general:8.0
+Mention:Insufisant
+
+
+Nom Prenom:DER
+MoyMat1:7.0
+MoyMat2:12.0
+MoyMat3:12.0
+MoyMat4:12.0
+MoyMat5:12.0
+Moyenne general:11.0
+Mention:Passable

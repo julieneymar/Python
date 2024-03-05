@@ -1,0 +1,7 @@
+
+MoyMat1:5.0
+MoyMat2:7.5
+MoyMat3:4.5
+MoyMat4:7.5
+MoyMat5:8.0
+Moyenne general:6.5
